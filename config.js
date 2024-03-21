@@ -6,7 +6,7 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['628xxx', 'Xyroinee', true]
+['6287840293713', 'Xyroinee', true]
 ]
 global.mods = []
 global.prems = []
@@ -42,13 +42,13 @@ global.xyro = 'apikeymu'
 // Daftar Ke Website Tersebut Untuk
 // Mendapatkan Apikey Kamu
 global.APIs = {
-    xyro: "https://api.xyroinee.xyz",
+    xteam: "https://api.xteam.xyz",
     popcat : 'https://api.popcat.xyz'
 }
 
 /Apikey/
 global.APIKeys = {
-    "https://api.xyroinee.xyz": "apikeymu",
+    'https://api.xteam.xyz': 'd90a9e986e18778b',,
 }
 
 let file = fileURLToPath(import.meta.url)
